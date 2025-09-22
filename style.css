@@ -1,0 +1,36 @@
+img[src="assets/Yldriardon_175x175.jpg"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: rgb(2, 61, 20,.65);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+ 
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    color: rgb(2, 70, 23);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+body{
+background-image: url(assets/full_page_background.jpg);}
+background-repeat: no-repeat;
+background-size: cover;
+
+label{
+    background-color: rgb(2, 61, 20);
+    color: rgb(255, 255, 255);
+}
